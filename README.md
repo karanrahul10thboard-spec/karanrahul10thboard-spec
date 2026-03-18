@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐐 About Me:
 Hey, I’m Lev 👨‍💻<br><br>🎓 BCA Student<br>💻 Web Developer (Full stack focused)<br>⚡ Turning ideas into clean, responsive websites<br>🎮 Hobby: Gaming
 
 
